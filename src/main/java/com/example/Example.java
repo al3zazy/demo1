@@ -9,4 +9,9 @@ public class Example {
         System.out.println("another change before merge");
     }
 
+    public void merge(){
+        System.out.println("merge later");
+
+    }
+
 }
